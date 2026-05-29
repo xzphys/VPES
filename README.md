@@ -6,6 +6,7 @@ Key features:
 1. The hardware efficient ansatz with RY rotations, and CZ entangling gates
 2. ADAM gradient descent optimizer for efficient parameter updates
 3. Expectation value measurements of multiple qubit combinations to obtain the value of objective function
+4. The file VPES.py does not introduce noise, whereas VPES_noise.py incorporates noise.
 
 Code Structure
 1. The hardware efficient ansatz to generate an parameterized quantum state
